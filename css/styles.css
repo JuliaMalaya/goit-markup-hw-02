@@ -36,8 +36,8 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.navigation-list-item:hover,
-.navigation-list-item:focus {
+.navigation-list-link:hover,
+.navigation-list-link:focus {
     color: #404bbf;
 }
 
@@ -52,8 +52,8 @@ ul {
     letter-spacing: 0.02em;
 }
 
-.contact-list-item:hover,
-.contact-list-item:focus {
+.contact-list-link:hover,
+.contact-list-link:focus {
     color: #404bbf;
 }
 
